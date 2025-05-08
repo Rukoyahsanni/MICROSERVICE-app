@@ -1,0 +1,4 @@
+jobs:
+terraform:
+name: Terraform Apply
+runs-on: ubuntu-latest
